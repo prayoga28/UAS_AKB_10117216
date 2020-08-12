@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_contact"
+        android:checked="false"
+        android:icon="@drawable/ic_baseline_calendar_view_day_24"
+        android:title="About"/>
+
+    <item
+        android:id="@+id/action_chat"
+        android:checked="false"
+        android:icon="@drawable/ic_baseline_bubble_chart_24"
+        android:title="Content"/>
+
+    <item
+        android:id="@+id/action_call"
+        android:checked="true"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="profil"/>
+
+</menu>
